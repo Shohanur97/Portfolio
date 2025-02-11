@@ -1,5 +1,5 @@
-#### **E-Commerce Sales Analysis Dashboard**
-## Key Findings from Your Excel Data:
+### **E-Commerce Sales Analysis Dashboard**
+# Key Findings from Your Excel Data:
 1. **Customer Data (Customer Sheet)**
    - Contains customer details such as ID, Name, City, Contact Number, Email, Gender, and Address.
    - Data includes diverse locations and gender distribution.
