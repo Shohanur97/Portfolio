@@ -1,6 +1,14 @@
 
 # Real Estate Sales Performance Dashboard
 
+ **Overview Screen**
+![image alt](https://github.com/Shohanur97/Portfolio/blob/main/Power%20Bi/Assets/Real%20Estate%20Sales%20Performance%20Dashboard%2001.png)
+
+
+![image alt](https://github.com/Shohanur97/Portfolio/blob/main/Power%20Bi/Assets/Real%20Estate%20Sales%20Performance%20Dashboard%2002.png)
+
+
+
 ## Project Overview
 This Power BI dashboard analyzes real estate sales performance, helping stakeholders track sales trends, agent contributions, and revenue distribution across projects. It provides interactive insights into property sales, agent performance, and revenue trends.
 
@@ -66,8 +74,3 @@ This Power BI dashboard analyzes real estate sales performance, helping stakehol
 - **Compare Metrics:** Use KPIs to track growth and profitability over time.
 
 
- **Overview Screen**
-![image alt](https://github.com/Shohanur97/Portfolio/blob/main/Power%20Bi/Assets/Real%20Estate%20Sales%20Performance%20Dashboard%2001.png)
-
-
-![image alt](https://github.com/Shohanur97/Portfolio/blob/main/Power%20Bi/Assets/Real%20Estate%20Sales%20Performance%20Dashboard%2002.png)
